@@ -1,4 +1,4 @@
-# Additional Practice: JavaScript Quotes Practice
+# Additional Practice: JavaScript Quotes
 
 ## Learning Goals
 
