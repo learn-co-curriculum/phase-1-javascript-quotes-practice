@@ -37,7 +37,7 @@ If you already have it installed, run the server by: `$ json-server --watch db.j
   ```
 
 * Submitting the form creates a new quote and adds it to the list of quotes
-  without having to refresh the page. Pessimistic rendering is reccommended.
+  without having to refresh the page. Pessimistic rendering is recommended.
 
 * Clicking the delete button should delete the respective quote from the
   API and remove it from the page without having to refresh.
